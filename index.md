@@ -5,4 +5,5 @@ When I have something more interesting than average of interesting things, I'm w
 
 ## Table of Contents:
 
-1. []()
+1. [Czy sortowanie (produktów) jest potrzebne](./sortowanie.md)
+
