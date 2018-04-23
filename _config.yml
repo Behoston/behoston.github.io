@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: Behoblog
+description: My personal software-engineering/dev(-op)/business blog
+logo: assets/img/logo.png
+google_analytics: UA-117997554-1
