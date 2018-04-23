@@ -4,7 +4,13 @@ When I have something more interesting than average of interesting things, I'm w
 
 ## Table of Contents:
 
-1. [Czy sortowanie (produktów) jest potrzebne](./sortowanie.md)
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
 
 ## About me
