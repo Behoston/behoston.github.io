@@ -2,6 +2,11 @@
 
 When I have something more interesting than average of interesting things, I'm writing an article here.
 
+## Table of Contents:
+
+1. [Czy sortowanie (produktów) jest potrzebne](./sortowanie.md)
+
+
 ## About me
 
 I'm Python developer.
@@ -34,7 +39,3 @@ then continue learning new things or do whatever I want!
 - Hardware
 - Anime
 - Computer Games
-
-## Table of Contents:
-
-1. [Czy sortowanie (produktów) jest potrzebne](./sortowanie.md)
