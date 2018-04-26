@@ -36,7 +36,7 @@ Pierwsze pytanie, jakie warto sobie zadać to:
 - popularność (od największej)
 - czas do końca \[+/-]
 
-![sortowanie na allegro](assets/img/sortowanie/allegro.png)
+![sortowanie na allegro](/assets/img/sortowanie/allegro.png)
 ---
 
 ### [otomoto](https://www.otomoto.pl):
@@ -45,7 +45,7 @@ Pierwsze pytanie, jakie warto sobie zadać to:
 - przebieg \[+/-]
 - moc silnika \[+/-]
 
-![sortowanie na otomoto](assets/img/sortowanie/otomoto.png)
+![sortowanie na otomoto](/assets/img/sortowanie/otomoto.png)
 ---
 
 ### [Apteka doz](https://www.doz.pl/):
@@ -53,7 +53,7 @@ Pierwsze pytanie, jakie warto sobie zadać to:
 - cena \[+/-]
 - nazwa \[+/-]
 
-![sortowanie na doz](assets/img/sortowanie/doz.png)
+![sortowanie na doz](/assets/img/sortowanie/doz.png)
 ---
 
 ### [Elektronika morele](https://www.morele.net):
@@ -63,7 +63,7 @@ Pierwsze pytanie, jakie warto sobie zadać to:
 - ocena (od najwyższej)
 - komentarze (od największej ilości)
 
-![sortowanie na morele](assets/img/sortowanie/morele.png)
+![sortowanie na morele](/assets/img/sortowanie/morele.png)
 ---
 
 #### Z wyżej wymienionych przykładów łatwo wyciągnąć jedną wspólną opcję: *cena*.
@@ -189,7 +189,7 @@ bo po prostu nie ma sensu jej zdejmować (może jeszcze jakieś ciekawe CV wpły
 albo po prostu jest to któryś z kolei portal, gdzie ogłoszenie zostało umieszczone i zapomniane.
 
 
-![sortowanie na Just Join IT](assets/img/sortowanie/justjoinit.png)
+![sortowanie na Just Join IT](/assets/img/sortowanie/justjoinit.png)
 
 ---
 
@@ -203,7 +203,7 @@ ogłoszenia prawdopodobnie przechodzą jakąś weryfikację, a opcje sortowania 
 
 i moim zdaniem pokrywają wszystkie potrzeby użytkownika co do porządkowania listy ofert.
 
-![sortowanie na Ada](assets/img/sortowanie/ada.png)
+![sortowanie na Ada](/assets/img/sortowanie/ada.png)
 
 
 ## Czy warto w takim razie w ogóle implementować sortowanie?
@@ -248,7 +248,7 @@ w którym będzie wiedział czego się spodziewać, po co więc dokładać komu�
 Zbędne opcje tylko wprowadzają niepotrzebny zamęt, a im prostsza obsługa, tym lepsze wrażenia.
 Co więcej, bezsensowne opcje mogą wyglądać równie nieprofesjonalnie co flashplayer.
 
-![flashplayer](assets/img/sortowanie/flashplayer.png)
+![flashplayer](/assets/img/sortowanie/flashplayer.png)
 
 Często dawanie wyboru opcji sortowania nie jest potrzebne,
 warto wtedy jedynie poinformować użytkownika, że lista,
