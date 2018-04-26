@@ -15,7 +15,7 @@ When I have something more interesting than average of interesting things, I'm w
 
 ## About me
 
-I'm Python developer.
+I'm a Python developer.
 
 I'm studying bioinformatics at Univerity of Warsaw (this/next year I will get a master's degree).
 
