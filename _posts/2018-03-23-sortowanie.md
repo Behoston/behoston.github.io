@@ -147,15 +147,19 @@ Jeśli, w przypadku apteki, ktoś szuka preparatu na "wu...",
 to wyszukiwarka powinna w tym wypadku wyszukiwać po prefiksach (i tak właśnie działa na doz.pl).
 
 
-### sortowanie "domyślne"
+### sortowanie "domyślne" lub "największa trafność"
 
-Sortowanie bez nazwy
-jest moim zdaniem najgorszym możliwym wyborem.
+Sortowanie bez nazwy jest moim zdaniem najgorszym możliwym wyborem.
 Ta opcja nie mówi nam zupełnie nic o faktycznym porządku prezentowanej listy.
 Być może jest to kolejność po rosnących kluczach głównych z bazy (a więc mniej więcej czasie dodania),
 być może są to produkty, które najsłabiej schodzą, a może po prostu tak wyszło z bazy, więc tak jest.
 Użytkownik nie wie czego się spodziewać, ciężko mu porównać produkty,
 a najczęściej i tak zmieni to sortowanie, jeśli nie znajdzie dokładnie tego czego szukał na pierwszej stronie.
+
+W przypadku `największa trafność` może mieć sens, jeśli rzeczywiście serwis,
+na którym to sortowanie występuje, ma dostateczną ilość danych,
+ aby taki "sprytny" algorytm sortowania zaimplementować
+(chociażby na podstawie danych użytkownika, jego poprzednich zakupów, zainteresowań itp.).
 
 
 ### Mój konkretny przypadek
