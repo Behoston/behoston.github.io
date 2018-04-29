@@ -1,17 +1,18 @@
 ---
 layout: default
 ---
+<article>
+    <header>
+        <small>{{ page.date | date: "%-d %B %Y" }}</small>
+        <img src="{{ page.header_image }}">
+        <h1>{{ page.title }}</h1>
+    </header>
+    {{ content }}
 
-<small>{{ page.date | date: "%-d %B %Y" }}</small>
-<h1>{{ page.title }}</h1>
+    Share this post:
+    {% include share-page.html %}
 
-<p class="view">by {{ page.author | default: site.author }}</p>
-
-{{content}}
-
-Share this post:
-{% include share-page.html %}
-
-{% if page.tags %}
-  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}{{ page.categories | join "</em> - <em>" }}</em></small>
-{% endif %}
+    {% if page.tags %}
+        <small>tags: <em>{{ page.tags | join: "</em> | <em>" }}{{ page.categories | join: "</em> | <em>" }}</em></small>
+    {% endif %}
+</article>

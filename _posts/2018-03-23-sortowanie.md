@@ -3,6 +3,8 @@ layout: post
 title:  "Czy sortowanie (produktów) jest potrzebne?"
 date:   2018-03-23
 categories: PL software-engineering
+header_image : /assets/img/sortowanie/header.jpg
+image: /assets/img/sortowanie/header_big.jpg
 ---
 
 Aktualnie jestem w trakcie tworzenia serwisu i stanąłem przed, wydawać by się mogło, nic nieznaczącą decyzją:
