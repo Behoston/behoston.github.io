@@ -103,3 +103,7 @@ Then restart your PC (maybe logout and login will do the job, restarting Cinnamo
 Done!
 
 ![gif with 2% step](/assets/img/mint_volume/volume_2.gif)
+
+### Konwon issues
+
+- When volume is maxed-out, you cannot lower volume using media buttons. IDK why, but volume jumps from 96% to 100% in one step (when step set to 2), so going backward is impossible. It can be fixed by settig max volume to 93%. You can try different values, maybe allow to pass 100% works too.
