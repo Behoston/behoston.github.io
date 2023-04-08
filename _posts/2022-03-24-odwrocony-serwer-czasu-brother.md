@@ -208,7 +208,7 @@ sudo systemctl start bro.service
 
 I w ten oto sposób moja stara drukarka dostała nowe życie. A przynajmniej zegarek dostał.
 
-![sukces!](../assets/img/rev-bro/sukces.png)
+![sukces!](/assets/img/rev-bro/sukces.png)
 
 Czy było warto? Póki nie wiedziałem, że pliki zapisują się z numerem początkowym (a nie datą), 
 to jak najbardziej było warto. Teraz - raczej nie bardzo :(
